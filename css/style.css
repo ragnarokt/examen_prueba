@@ -1,0 +1,49 @@
+*{
+    
+}
+
+.cabecera{
+    margin-left: 120px;
+    width: 80%;
+    height: 200px;
+    background-color: red;
+}
+
+.principal{
+    position: relative;
+    border: 2px solid black;
+    width: 80%;
+    height: 500px;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.principal1{
+    position: absolute;
+    width: 60%;
+    height: 480px;
+    background-color: blue;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.principal2{
+    position: absolute;
+    width: 35%;
+    height: 480px;
+    background-color: green;
+    right: 0;
+    margin-right: 10px;
+    margin-left:10px; 
+    margin-top: 10px;
+}
+
+footer{
+    position: relative;
+    height: 200px;
+    width: 80%;
+    background-color: yellow;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
